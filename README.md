@@ -38,7 +38,7 @@ The portfolio features a clean, modern, and responsive design aimed at presentin
 </p>
 
 <p align="center">
-  <img src="screenshots/projects.png" width="800">
+  <img src="screenshots/education.png" width="800">
 </p>
 
 ---
